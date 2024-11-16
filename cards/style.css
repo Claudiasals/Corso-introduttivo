@@ -1,4 +1,9 @@
-.tag{
-    background-color: aqua;
+.titoletto{
+    background-color: blueviolet;
     color: white;
+    font-size: 10px;
+}
+
+.round{
+    border-radius: 10px;
 }
