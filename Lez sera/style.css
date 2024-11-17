@@ -58,12 +58,13 @@ nav .navbar__conteiner .navbar__menu {
    
 }
 
-nav .navbar__conteiner .navbar__menu .navbar__manu-item a {
+
+nav .navbar__conteiner .navbar__menu .navbar__menu-item a {
     cursor: pointer;
-    transition: ease-in-out 0.5s;
+    transition: ease-in-out 0.25s;
 }
 
-nav .navbar__conteiner .navbar__menu .navbar__manu-item a:hover {
+nav .navbar__conteiner .navbar__menu .navbar__menu-item a:hover {
 color: #2275ea;
 }
 
